@@ -1,2 +1,3 @@
-# lidar-notebooks
-Notebooks for the lidar-processor repository
+# LiDAR notebookq
+
+Notebooks for the [lidar-processor repository](https://github.com/gobgob/lidar-processor).
